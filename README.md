@@ -25,7 +25,7 @@ Libraries used
 
 Screenshots
 ----
-![screenshot](./art/screenshot1.png "Screenshot 1") 
+![screenshot](./device-2016-07-05-154202.png) 
 
 
 Developed by
