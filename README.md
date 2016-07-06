@@ -1,4 +1,5 @@
 # MVP - Sample Login Screen
+Login Screen
 =========
 
 
@@ -9,8 +10,8 @@ Motivation
 ----
 After see the MVP implementations of:
 
-- [MVPCleanArchitecture](https://github.com/glomadrian/MvpCleanArchitecture) by [glmoadrian](https://github.com/glomadrian)
-- [EffectiveAndroidUI](https://github.com/pedrovgs/EffectiveAndroidUI) by [pedrovgs](https://github.com/pedrovgs)
+- [Android Architecture Blueprints](https://github.com/googlesamples/android-architecture) by [glmoadrian](https://github.com/JoseAlcerreca)
+
 
 I decided to make my own implenentation using these two projects as reference.
  
