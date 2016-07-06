@@ -10,7 +10,7 @@ Motivation
 ----
 After see the MVP implementations of:
 
-- [Android Architecture Blueprints](https://github.com/googlesamples/android-architecture) by [glmoadrian](https://github.com/JoseAlcerreca)
+- [Android Architecture Blueprints](https://github.com/googlesamples/android-architecture) by [JoseAlcerreca](https://github.com/JoseAlcerreca)
 
 
 I decided to make my own implenentation using these two projects as reference.
